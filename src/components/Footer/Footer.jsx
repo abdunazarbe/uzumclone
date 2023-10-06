@@ -11,7 +11,7 @@ const Footer = () => {
                         <ul className="flex flex-col">
                             <li className="text-[#141415] font-['RobotoMedium'] mb-[16px]">Biz haqimizda</li>
                             <li className="text-[#4D4E59] font-['RobotoRegular'] mb-[19px]"><a href="#">Topshirish punktlari</a></li>
-                            <li className="text-[#4D4E59] font-['RobotoRegular'] mb-[19px]"><a href="#">Vakansiyalar</a></li>
+                            <li className="text-[#4D4E59] font-['RobotoRegular'] mb-[19px]"><a href="#">VACATIONS</a></li>
                         </ul>
                         <ul className="flex flex-col">
                             <li className="text-[#141415] font-['RobotoMedium'] mb-[16px]">Foydalanuvchilarga</li>
